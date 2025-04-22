@@ -6,7 +6,7 @@
 
 💡 Sempre tive afinidade com tecnologia, mas demorei um tempo pra entender qual caminho seguir dentro da área de TI. Depois de muita pesquisa e prática, descobri minha paixão pela programação. Desde então, venho estudando com consistência e construindo projetos próprios para colocar em prática tudo que aprendo.
 
-🧠 Já tenho uma boa base em HTML, CSS e JavaScript, e estou expandindo meus conhecimentos em TypeScript, Python, Go e frameworks modernos.
+🧠 Já tenho uma boa base em HTML, CSS e JavaScript, e estou expandindo meus conhecimentos em TypeScript, Python, Go e frameworks modernos. <br/>
 🐳 Também estou aprendendo sobre Docker e PostgreSQL, com foco em deploy de aplicações e boas práticas com containers.
 
 
