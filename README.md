@@ -1,18 +1,23 @@
-### Olá! Eu sou o Alexandre Pecker 👋
+👋 Olá! Eu sou o Alexandre Sampaio
 
-- 🔭 Hoje trabalho como Analista de Suporte Técnico.
-- 🌱 Estou estudando Desenvolvimento de Software.
-- 👨🏻‍💻 Sempre gostei do mercado de TI porém estava em dúvida de qual área dentro da TI eu iria me especializar. Após meses com essa dúdiva, já tomei minha decisão, me interessei mais pela área de progrmação e estou estudando diariamente para me tornar um dev. Já tenho uma base em HTML, CSS e JavaScript, consigo desenvolver alguns projetos utilizando essas linguagens. Não pretendo parar de estudar e quero aprender mais a cada dia.
+🎯 Analista de Suporte Técnico com mais de 5 anos de experiência na área de TI.
+🚀 Atualmente focado na transição para a área de Desenvolvimento de Software.
+📚 Estudando todos os dias para me tornar um desenvolvedor full stack.
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="alexandre-html" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="alexandre-css" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="alexandre-git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg">
-  <img align="center" alt="alexandre-git" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="alexandre-git" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="alexandre-git" height="50" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="alexandre-git" height="50" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-plain.svg">
-</div>
+💡 Sempre tive afinidade com tecnologia, mas demorei um tempo pra entender qual caminho seguir dentro da área de TI. Depois de muita pesquisa e prática, descobri minha paixão pela programação. Desde então, venho estudando com consistência e construindo projetos próprios para colocar em prática tudo que aprendo.
+
+🧠 Já tenho uma boa base em HTML, CSS e JavaScript, e estou expandindo meus conhecimentos em TypeScript, Python, Go e frameworks modernos.
+🐳 Também estou aprendendo sobre Docker e PostgreSQL, com foco em deploy de aplicações e boas práticas com containers.
+
+
+
+<div style="display: flex; gap: 10px; align-items: center;"> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="30"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="30"/> 
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30"/> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30"/> </div>
 
 ##
 
