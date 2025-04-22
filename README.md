@@ -1,4 +1,4 @@
-👋 Olá! Eu sou o Alexandre Sampaio
+👋 Olá! Me chamo Alexandre Pecker Sampaio
 
 🎯 Analista de Suporte Técnico com mais de 5 anos de experiência na área de TI. <br/>
 🚀 Atualmente focado na transição para a área de Desenvolvimento de Software. <br/>
