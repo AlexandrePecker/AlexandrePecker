@@ -1,7 +1,7 @@
 👋 Olá! Eu sou o Alexandre Sampaio
 
-🎯 Analista de Suporte Técnico com mais de 5 anos de experiência na área de TI.
-🚀 Atualmente focado na transição para a área de Desenvolvimento de Software.
+🎯 Analista de Suporte Técnico com mais de 5 anos de experiência na área de TI. <br/>
+🚀 Atualmente focado na transição para a área de Desenvolvimento de Software. <br/>
 📚 Estudando todos os dias para me tornar um desenvolvedor full stack.
 
 💡 Sempre tive afinidade com tecnologia, mas demorei um tempo pra entender qual caminho seguir dentro da área de TI. Depois de muita pesquisa e prática, descobri minha paixão pela programação. Desde então, venho estudando com consistência e construindo projetos próprios para colocar em prática tudo que aprendo.
