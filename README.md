@@ -1,15 +1,8 @@
 👋 Olá! Me chamo Alexandre Pecker Sampaio
 
-🎯 Analista de Suporte Técnico com mais de 5 anos de experiência na área de TI. <br/>
-🚀 Atualmente focado na transição para a área de Desenvolvimento de Software. <br/>
-📚 Estudando todos os dias para me tornar um desenvolvedor full stack.
+🎯 Desenvolvedor Junior <br/>
 
-💡 Sempre tive afinidade com tecnologia, mas demorei um tempo pra entender qual caminho seguir dentro da área de TI. Depois de muita pesquisa e prática, descobri minha paixão pela programação. Desde então, venho estudando com consistência e construindo projetos próprios para colocar em prática tudo que aprendo.
-
-🧠 Já tenho uma boa base em HTML, CSS e JavaScript, e estou expandindo meus conhecimentos em TypeScript, Python, Go e frameworks modernos. <br/>
-🐳 Também estou aprendendo sobre Docker e PostgreSQL, com foco em deploy de aplicações e boas práticas com containers.
-
-
+Sempre tive afinidade com tecnologia, mas demorei um tempo pra entender qual caminho seguir dentro da área de TI. Depois de muita pesquisa e prática, descobri minha paixão pela programação. Desde então, venho estudando com consistência e construindo projetos próprios para colocar em prática tudo que aprendo.
 
 <div style="display: flex; gap: 10px; align-items: center;"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30"/> 
