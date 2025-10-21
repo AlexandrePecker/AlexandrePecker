@@ -1,8 +1,22 @@
-👋 Olá! Me chamo Alexandre Pecker Sampaio
+👋 Olá, eu sou o Alexandre Pecker Sampaio
 
-🎯 Desenvolvedor Junior <br/>
+🎯 Desenvolvedor Junior
+💻 Atualmente focado em desenvolvimento web full stack (Node.js, React, Laravel, Angular)
 
-Sempre tive afinidade com tecnologia, mas demorei um tempo pra entender qual caminho seguir dentro da área de TI. Depois de muita pesquisa e prática, descobri minha paixão pela programação. Desde então, venho estudando com consistência e construindo projetos próprios para colocar em prática tudo que aprendo.
+Sempre fui apaixonado por tecnologia, mas levei um tempo pra descobrir meu verdadeiro caminho dentro da TI. Depois de mais de 5 anos trabalhando com suporte técnico, encontrei na programação a área que realmente me motiva a aprender e criar coisas novas todos os dias.
+Hoje, estou construindo minha trajetória como desenvolvedor — estudando com consistência, experimentando novas tecnologias e desenvolvendo projetos próprios que me ajudam a evoluir na prática.
+
+🚀 Tecnologias e ferramentas que uso
+Backend: PHP, Node.js
+Frontend: React, TailwindCSS
+Banco de Dados: PostgreSQL, MySQL
+Outros: Docker, Git, APIs REST, integração com serviços externos (FTP, WhatsApp API, Azure)
+
+💡 Sobre mim
+Sou curioso, autodidata e gosto de entender o "porquê" por trás de cada tecnologia.
+Acredito que a melhor forma de aprender é fazendo, e cada projeto é uma oportunidade de me tornar um profissional mais completo.
+
+Atualmente busco oportunidades para crescer como desenvolvedor e colaborar em projetos que desafiem minhas habilidades.
 
 <div style="display: flex; gap: 10px; align-items: center;"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="30"/> 
