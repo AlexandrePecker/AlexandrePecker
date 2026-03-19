@@ -12,7 +12,6 @@ Frontend: React, TailwindCSS
 Banco de Dados: PostgreSQL, MySQL
 Outros: Docker, Git, APIs REST, integração com serviços externos (FTP, WhatsApp API, Azure)
 
-💡 Sobre mim
 Sou curioso, autodidata e gosto de entender o "porquê" por trás de cada tecnologia.
 Acredito que a melhor forma de aprender é fazendo, e cada projeto é uma oportunidade de me tornar um profissional mais completo.
 
