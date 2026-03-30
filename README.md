@@ -1,6 +1,6 @@
 👋 Olá, eu sou o Alexandre Pecker Sampaio
 
-🎯 Desenvolvedor web
+🎯 Desenvolvedor de Software
 💻 Atualmente focado em desenvolvimento web full stack (Node.js, React, Laravel, Angular)
 
 Sempre fui apaixonado por tecnologia, mas levei um tempo pra descobrir meu verdadeiro caminho dentro da TI. Depois de mais de 5 anos trabalhando com suporte técnico, encontrei na programação a área que realmente me motiva a aprender e criar coisas novas todos os dias.
