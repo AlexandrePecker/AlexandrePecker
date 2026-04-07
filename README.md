@@ -7,7 +7,7 @@ Sempre fui apaixonado por tecnologia, mas levei um tempo pra descobrir meu verda
 Hoje, estou construindo minha trajetória como desenvolvedor — estudando com consistência, experimentando novas tecnologias e desenvolvendo projetos próprios que me ajudam a evoluir na prática.
 
 🚀 Tecnologias e ferramentas que uso
-Backend: PHP, Node.js
+Backend: PHP, Node.js <br />
 Frontend: React, TailwindCSS
 Banco de Dados: PostgreSQL, MySQL
 Outros: Docker, Git, APIs REST, integração com serviços externos (FTP, WhatsApp API, Azure)
