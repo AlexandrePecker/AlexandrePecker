@@ -8,8 +8,8 @@ Hoje, estou construindo minha trajetória como desenvolvedor — estudando com c
 
 🚀 Tecnologias e ferramentas que uso
 Backend: PHP, Node.js <br />
-Frontend: React, TailwindCSS
-Banco de Dados: PostgreSQL, MySQL
+Frontend: React, TailwindCSS <br />
+Banco de Dados: PostgreSQL, MySQL <br />
 Outros: Docker, Git, APIs REST, integração com serviços externos (FTP, WhatsApp API, Azure)
 
 Sou curioso, autodidata e gosto de entender o "porquê" por trás de cada tecnologia.
